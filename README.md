@@ -1,1 +1,2 @@
-# MVA_Deep-Learning
+# MVA Course : Deep Learning
+# Vincent Lepetit
